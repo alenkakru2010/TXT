@@ -1,0 +1,7 @@
+ I'll get next skills on the course by Vadim Ksendzov:
+- learning JS language;
+- learning using js, json, txt, xml formats;
+- learning interface Terminal, Postman;
+- using web brawser Git Hub.
+
+
