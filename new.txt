@@ -1,0 +1,6 @@
+1) First name - Alena; 
+2) Last name - Kruchkova;
+3) Age - 38;
+4) Pets - 1;
+5) Salary - 1000$.
+
